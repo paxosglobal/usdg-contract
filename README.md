@@ -184,7 +184,7 @@ https://etherscan.io/token/0x568C28170115FE772b30229199d4Ae0595A507F7#code
 
 ## Paxos Support
 
-Visit Paxos [USDG](https://paxos.com/USDG/) website for more information.
+Visit Paxos [USDG developer docs](https://docs.paxos.com/stablecoin/usdg) for more information.
 
 ### Testnet Faucet
 Paxos [Faucet](https://faucet.paxos.com/) to get USDG on testnet.
