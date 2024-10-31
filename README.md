@@ -19,7 +19,10 @@ To guard against centralized control, the addresses above utilize multisignature
 The contract abi is in `USDG.abi`, which is the implementation contract abi.
 
 Interaction with token is done at the address of the proxy. Deployed token addresses can be found in
-the [Paxos docs](https://docs.paxos.com/stablecoin).
+the [Paxos docs](https://docs.paxos.com/stablecoin). 
+
+## Audits
+An audit was performed by Zellic and can be found [here](https://github.com/paxosglobal/paxos-token-contracts/blob/master/audits/Paxos%20Stablecoin%20-%20Zellic%20Audit%20Report.pdf)
 
 ## Contract Specification
 
