@@ -22,7 +22,7 @@ Interaction with token is done at the address of the proxy. Deployed token addre
 the [Paxos docs](https://docs.paxos.com/stablecoin). 
 
 ## Audits
-An audit was performed by Zellic and can be found [here](https://github.com/paxosglobal/paxos-token-contracts/blob/master/audits/Paxos%20Stablecoin%20-%20Zellic%20Audit%20Report.pdf)
+Audits were performed by Zellic and Trail of Bits.  Audits can be found [here](https://github.com/paxosglobal/paxos-token-contracts/blob/master/audits/).
 
 ## Contract Specification
 
