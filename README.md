@@ -181,9 +181,20 @@ contract, which is automatically paused by its constructor to help avoid acciden
 to the proxy contract.
 
 ## Bytecode verification
-The proxy contract and implementation contracts are verified on etherscan at the following links:
-https://etherscan.io/token/0xe343167631d89B6Ffc58B88d6b7fB0228795491D#code
-https://etherscan.io/token/0x568C28170115FE772b30229199d4Ae0595A507F7#code
+The proxy contract and implementation contracts are verified at the following links:
+
+Ethereum:
+- Proxy: https://etherscan.io/token/0xe343167631d89B6Ffc58B88d6b7fB0228795491D#code
+- Implementation: https://etherscan.io/token/0x2d4194424a552d767a3d9b52eeacdb67ff52cfc6#code
+
+Ink:
+- Proxy: https://explorer.inkonchain.com/token/0xe343167631d89B6Ffc58B88d6b7fB0228795491D?tab=contract
+- Implementation: https://explorer.inkonchain.com/address/0x3cCDBFdcd08E8EFc33830AE60E9F5CfD19638D8B?tab=contract
+
+XLayer:
+- Proxy: https://www.oklink.com/x-layer/token/0x4ae46a509f6b1d9056937ba4500cb143933d2dc8?tab=contract
+- Implementation: https://www.oklink.com/x-layer/address/0xa96f210674b11da59e6d1c354a2e1445d39673e1/contract
+
 
 ## Paxos Support
 
